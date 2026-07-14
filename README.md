@@ -1,17 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=MABU%20SAMEERA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descAlignY=58&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" alt="Mabu Sameera — Data Analyst" width="100%">
+</picture>
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/mabusameera">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;500K%2B+records+analyzed+across+4+dashboards;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;Seeking+an+Entry-Level+Data+Analyst+role" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;500K%2B+records+analyzed+across+4+dashboards;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;Seeking+an+Entry-Level+Data+Analyst+role" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MabuSameera&label=PROFILE+VIEWS&color=1a1b27&style=for-the-badge&labelColor=7aa2f7)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27)](https://linkedin.com/in/mabusameera)
+[![Gmail](https://img.shields.io/badge/EMAIL-CONTACT-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7&labelColor=1a1b27)](mailto:mabusameera.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-1a1b27?style=for-the-badge&logo=github&logoColor=9ece6a&labelColor=1a1b27)](https://github.com/MabuSameera)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MabuSameera&label=Profile%20Views&color=7aa2f7&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabusameera)
-[![Gmail](https://img.shields.io/badge/Email-Contact-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabusameera.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9ECE6A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MabuSameera)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=3&width=1000" width="100%"/>
 
 </div>
 
@@ -20,12 +30,12 @@
 ## 🚀 About Me
 
 ```yaml
-Data analyst:
+data Analyst:
   name: "Mabu Sameera J"
   role: "Aspiring Data Analyst"
   education: "BCA, Jamal Mohamed College (2023 – 2026) · Aggregate: 86%"
   location: "Trichy, Tamil Nadu, India"
-  focus: ["SQL", "Python", "Power BI", "Tableau", "Excel", "Data Analytics"]
+  focus: ["SQL", "Python", "Power BI", "Tableau", "Business Analytics"]
   philosophy: "Every dataset has a decision hiding inside it — my job is to find it, prove it, and visualize it."
   currently: "Sharpening SQL window functions, DAX, and end-to-end BI storytelling"
   looking_for: "Entry-level Data Analyst opportunities"
@@ -38,6 +48,8 @@ Data analyst:
 - 🌱 **Career goal:** Land an entry-level Data Analyst role where I can turn messy operational data into dashboards that leadership actually acts on
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
 
 ## 🏆 Certifications & Job Simulations
 
@@ -70,6 +82,8 @@ Data analyst:
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
+
 ## 💼 Featured Projects
 
 <table width="100%">
@@ -95,7 +109,7 @@ Data analyst:
 <td width="50%" valign="top">
 
 ### 🛒 Online Retail Sales Analysis Dashboard
-**Tools:** Excel · SQL · Tableau · Power Bi
+**Tools:** Excel · SQL · Tableau
 
 **Problem:** Identify revenue concentration and seasonality in UK online retail transactions.
 
@@ -149,6 +163,8 @@ Data analyst:
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
+
 ## ⚡ Data & Analytics Stack
 
 <div align="center">
@@ -187,6 +203,8 @@ Data analyst:
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
+
 ## 🧩 Core Competencies
 
 | Domain | What I Do |
@@ -199,6 +217,8 @@ Data analyst:
 | **Business Reporting** | Translating raw analysis into quantified, decision-ready recommendations |
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
 
 ## 📈 GitHub Metrics
 
@@ -219,6 +239,8 @@ Data analyst:
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
+
 ## 🌱 Currently Exploring
 
 <div align="center">
@@ -233,6 +255,8 @@ Data analyst:
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=2&width=1000" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -250,6 +274,8 @@ Data analyst:
 
 ### 💬 "Data doesn't speak for itself — an analyst gives it a voice worth listening to."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
+
+<sub>Thanks for scrolling this far — <a href="mailto:mabusameera.official@gmail.com">let's talk data</a> ✨</sub>
 
 </div>
