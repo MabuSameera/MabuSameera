@@ -20,8 +20,8 @@
 ## 🚀 About Me
 
 ```yaml
-analyst:
-  name: "Mabu Sameera"
+Data analyst:
+  name: "Mabu Sameera J"
   role: "Aspiring Data Analyst"
   education: "BCA, Jamal Mohamed College (2023 – 2026) · Aggregate: 86%"
   location: "Trichy, Tamil Nadu, India"
